@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class Arr28_RemoveElement {
+public class Arr29_RemoveElement {
 
     public static int removeelement(int[] arr, int k){
 
