@@ -42,3 +42,5 @@ public class Arr10_CountPosNeg {
     }
     
 }
+// Pattern Used:
+// Frequency Counting

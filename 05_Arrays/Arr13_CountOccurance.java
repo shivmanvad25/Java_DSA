@@ -34,3 +34,6 @@ public class Arr13_CountOccurance {
     }
     
 }
+
+// Pattern Used:
+// Frequency Counting
